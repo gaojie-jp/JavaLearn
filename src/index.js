@@ -220,11 +220,11 @@
 // }
 
 //　|| の左側がfalseなら、右側を返す
-const num = 100; //null
-const fee = num || "金額未設定";
-console.log(fee);
+// const num = 100; //null
+// const fee = num || "金額未設定";
+// console.log(fee);
 
 // && の左側がtrueなら、右側を返す
-const num2 = null;
-const fee2 = num2 && "何か設定された";
-console.log(fee2);
+// const num2 = null;
+// const fee2 = num2 && "何か設定された";
+// console.log(fee2);
